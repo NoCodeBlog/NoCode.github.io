@@ -34,7 +34,7 @@ Về cơ bản thì libgdx là một framework để lập trình game, hỗ tr�
 
  Bạn sẽ thấy tiến trình generate rất nhanh. Chọn Exit application vậy là bạn đã tạo xong một project libgdx với libgdx-liftoff.
  
- Tôi sẽ hướng dẫn bạn import project này vào android studioi trong bài tiếp theo.
+ Tôi sẽ hướng dẫn bạn import project này vào android studio trong bài tiếp theo.
  
  {: .box-note}
 **Note:** Chắc bạn sẽ thắc mắc tại sao tôi không dùng Libgdx trên trang chủ badlogic.com mà lại dùng libgdx-liftoff?  
