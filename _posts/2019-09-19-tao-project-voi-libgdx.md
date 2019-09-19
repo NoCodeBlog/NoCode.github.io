@@ -14,4 +14,7 @@ Về cơ bản thì libgdx là một framework để lập trình game, hỗ tr�
 ## Tạo project  
   Đầu tiên để bắt đầu học tập về libgdx bạn cần biết cách tạo 1 project libgdx như thế nào.  
   Bạn download Libgdx-liftoff [tại đây](https://github.com/tommyettinger/gdx-liftoff/releases/tag/v1.9.9.0).  
+  Xong bạn chạy file jar đó. Để chạy được file vừa download yêu cầu máy tính của bạn phải đã cài java nếu chưa cài bạn có thể lên google tìm kiếm phần này.
+  Chạy file trông sẽ như thế này
+  ![Libgdx-liftoff](libgdx-liftoff.png)
   
