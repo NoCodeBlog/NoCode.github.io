@@ -16,5 +16,5 @@ Về cơ bản thì libgdx là một framework để lập trình game, hỗ tr�
   Bạn download Libgdx-liftoff [tại đây](https://github.com/tommyettinger/gdx-liftoff/releases/tag/v1.9.9.0).  
   Xong bạn chạy file jar đó. Để chạy được file vừa download yêu cầu máy tính của bạn phải đã cài java nếu chưa cài bạn có thể lên google tìm kiếm phần này.
   Chạy file trông sẽ như thế này
-  ![Libgdx-liftoff](_posts/libgdx-liftoff.png)
+  ![Libgdx-liftoff](https://raw.githubusercontent.com/NoCodeBlog/nocodeblog.github.io/master/static/img/_posts/Broadcast_Mail.png_posts/libgdx-liftoff.png)
   
