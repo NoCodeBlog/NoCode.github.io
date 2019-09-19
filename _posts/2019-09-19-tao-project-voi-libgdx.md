@@ -10,6 +10,8 @@ image: libgdx.png
 ## Sơ lược về Libgdx  
   Đây là bài đầu tiên trong series học lập trình game với **libgdx**. Nếu bạn chưa biết libgdx là gì thì -> [libgdx wiki](https://en.wikipedia.org/wiki/LibGDX)  
 Về cơ bản thì libgdx là một framework để lập trình game, hỗ trợ _**đa nền tảng**_.
+{: .box-note}
+**Note:** Để hiểu được series này yêu cầu bạn phải có kiến thức căn bản về ngôn ngữ lập trình java nên những vấn đề như cài đặt jdk về java mình sẽ không nhắc lại nữa nếu có thì chỉ lướt qua.
 
 ## Tạo project  
   Đầu tiên để bắt đầu học tập về libgdx bạn cần biết cách tạo 1 project libgdx như thế nào.  
